@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_USB_C_Plug)(type KiCad)(uri ${KIPRJMOD}/lib/Connector_USB_C_Plug.pretty)(options "")(descr ""))
+  (lib (name Perforation)(type KiCad)(uri ${KIPRJMOD}/lib/Perforation.pretty)(options "")(descr ""))
+)
